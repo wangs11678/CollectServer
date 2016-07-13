@@ -1,0 +1,442 @@
+new client is coming...|Time:2016-07-06 11:11:38|Time:2016-07-06 11:11:38
+192.168.1.107 connected...|Time:2016-07-06 11:11:38|Time:2016-07-06 11:11:38
+start to read...wait for data|Time:2016-07-06 11:11:38
+data coming...|Time:2016-07-06 11:11:38
+single msg is ok...|Time:2016-07-06 11:11:38
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:11:38
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_07_06' doesn't exist|Time:2016-07-06 11:11:39
+|Time:2016-07-06 11:11:39
+start to read...wait for data|Time:2016-07-06 11:11:39
+msgProcessor IOException..|java.net.SocketException: Socket closed|2016-07-06 11:11:39|Time:2016-07-06 11:11:39
+192.168.1.107 closed,exit|Time:2016-07-06 11:11:39|Time:2016-07-06 11:11:39
+new client is coming...|Time:2016-07-06 11:12:17|Time:2016-07-06 11:12:17
+192.168.1.107 connected...|Time:2016-07-06 11:12:17|Time:2016-07-06 11:12:17
+start to read...wait for data|Time:2016-07-06 11:12:17
+data coming...|Time:2016-07-06 11:12:17
+single msg is ok...|Time:2016-07-06 11:12:17
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:17
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:12:17
+start to read...wait for data|Time:2016-07-06 11:12:17
+data coming...|Time:2016-07-06 11:12:20
+single msg is ok...|Time:2016-07-06 11:12:20
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:20
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:12:20
+start to read...wait for data|Time:2016-07-06 11:12:20
+data coming...|Time:2016-07-06 11:12:23
+single msg is ok...|Time:2016-07-06 11:12:23
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:23
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:12:23
+start to read...wait for data|Time:2016-07-06 11:12:23
+data coming...|Time:2016-07-06 11:12:25
+single msg is ok...|Time:2016-07-06 11:12:25
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:25
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.relation_care' doesn't exist|Time:2016-07-06 11:12:25
+|Time:2016-07-06 11:12:25
+start to read...wait for data|Time:2016-07-06 11:12:25
+msgProcessor IOException..|java.net.SocketException: Socket closed|2016-07-06 11:12:25|Time:2016-07-06 11:12:25
+192.168.1.107 closed,exit|Time:2016-07-06 11:12:25|Time:2016-07-06 11:12:25
+new client is coming...|Time:2016-07-06 11:12:51|Time:2016-07-06 11:12:51
+192.168.1.107 connected...|Time:2016-07-06 11:12:51|Time:2016-07-06 11:12:51
+start to read...wait for data|Time:2016-07-06 11:12:51
+data coming...|Time:2016-07-06 11:12:51
+single msg is ok...|Time:2016-07-06 11:12:51
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:51
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:12:51
+start to read...wait for data|Time:2016-07-06 11:12:51
+data coming...|Time:2016-07-06 11:12:54
+single msg is ok...|Time:2016-07-06 11:12:54
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:54
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:12:54
+start to read...wait for data|Time:2016-07-06 11:12:54
+data coming...|Time:2016-07-06 11:12:57
+single msg is ok...|Time:2016-07-06 11:12:57
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:12:57
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:12:57
+start to read...wait for data|Time:2016-07-06 11:12:57
+data coming...|Time:2016-07-06 11:13:00
+single msg is ok...|Time:2016-07-06 11:13:00
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:13:00
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:13:00
+start to read...wait for data|Time:2016-07-06 11:13:00
+data coming...|Time:2016-07-06 11:13:02
+single msg is ok...|Time:2016-07-06 11:13:02
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:13:03
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.relation_care' doesn't exist|Time:2016-07-06 11:13:03
+|Time:2016-07-06 11:13:03
+start to read...wait for data|Time:2016-07-06 11:13:03
+msgProcessor IOException..|java.net.SocketException: Socket closed|2016-07-06 11:13:03|Time:2016-07-06 11:13:03
+192.168.1.107 closed,exit|Time:2016-07-06 11:13:03|Time:2016-07-06 11:13:03
+new client is coming...|Time:2016-07-06 11:14:57|Time:2016-07-06 11:14:57
+192.168.1.107 connected...|Time:2016-07-06 11:14:57|Time:2016-07-06 11:14:57
+start to read...wait for data|Time:2016-07-06 11:14:57
+data coming...|Time:2016-07-06 11:14:57
+single msg is ok...|Time:2016-07-06 11:14:57
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:14:57
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:14:58
+start to read...wait for data|Time:2016-07-06 11:14:58
+data coming...|Time:2016-07-06 11:15:00
+single msg is ok...|Time:2016-07-06 11:15:00
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:15:00
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:15:00
+start to read...wait for data|Time:2016-07-06 11:15:00
+data coming...|Time:2016-07-06 11:15:03
+single msg is ok...|Time:2016-07-06 11:15:03
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:15:03
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:15:03
+start to read...wait for data|Time:2016-07-06 11:15:03
+data coming...|Time:2016-07-06 11:15:04
+single msg is ok...|Time:2016-07-06 11:15:04
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:15:04
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Unknown column 'text' in 'field list'
+|Time:2016-07-06 11:15:04
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:15:04
+start to read...wait for data|Time:2016-07-06 11:15:04
+data coming...|Time:2016-07-06 11:15:06
+single msg is ok...|Time:2016-07-06 11:15:06
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:15:06
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:15:06
+start to read...wait for data|Time:2016-07-06 11:15:06
+data coming...|Time:2016-07-06 11:15:09
+single msg is ok...|Time:2016-07-06 11:15:09
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:15:09
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:15:09
+start to read...wait for data|Time:2016-07-06 11:15:09
+new client is coming...|Time:2016-07-06 11:16:56|Time:2016-07-06 11:16:56
+192.168.1.107 connected...|Time:2016-07-06 11:16:56|Time:2016-07-06 11:16:56
+start to read...wait for data|Time:2016-07-06 11:16:56
+data coming...|Time:2016-07-06 11:16:56
+single msg is ok...|Time:2016-07-06 11:16:56
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:16:56
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:16:57
+start to read...wait for data|Time:2016-07-06 11:16:57
+data coming...|Time:2016-07-06 11:16:59
+single msg is ok...|Time:2016-07-06 11:16:59
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:16:59
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:16:59
+start to read...wait for data|Time:2016-07-06 11:16:59
+data coming...|Time:2016-07-06 11:16:59
+single msg is ok...|Time:2016-07-06 11:16:59
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:16:59
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:16:59
+start to read...wait for data|Time:2016-07-06 11:16:59
+data coming...|Time:2016-07-06 11:17:02
+single msg is ok...|Time:2016-07-06 11:17:02
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:02
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:02
+start to read...wait for data|Time:2016-07-06 11:17:02
+data coming...|Time:2016-07-06 11:17:05
+single msg is ok...|Time:2016-07-06 11:17:05
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:05
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:05
+start to read...wait for data|Time:2016-07-06 11:17:05
+data coming...|Time:2016-07-06 11:17:08
+single msg is ok...|Time:2016-07-06 11:17:08
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:08
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:08
+start to read...wait for data|Time:2016-07-06 11:17:08
+data coming...|Time:2016-07-06 11:17:10
+single msg is ok...|Time:2016-07-06 11:17:10
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:10
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:10
+start to read...wait for data|Time:2016-07-06 11:17:10
+data coming...|Time:2016-07-06 11:17:11
+single msg is ok...|Time:2016-07-06 11:17:11
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:11
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:11
+start to read...wait for data|Time:2016-07-06 11:17:11
+data coming...|Time:2016-07-06 11:17:14
+single msg is ok...|Time:2016-07-06 11:17:14
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:14
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:14
+start to read...wait for data|Time:2016-07-06 11:17:14
+data coming...|Time:2016-07-06 11:17:17
+single msg is ok...|Time:2016-07-06 11:17:17
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:17
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:17
+start to read...wait for data|Time:2016-07-06 11:17:17
+data coming...|Time:2016-07-06 11:17:20
+single msg is ok...|Time:2016-07-06 11:17:20
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:17:20
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:17:20
+start to read...wait for data|Time:2016-07-06 11:17:20
+data coming...|Time:2016-07-06 11:17:21
+start to read...wait for data|Time:2016-07-06 11:17:21
+data coming...|Time:2016-07-06 11:17:21
+start to read...wait for data|Time:2016-07-06 11:17:21
+data coming...|Time:2016-07-06 11:17:21
+start to read...wait for data|Time:2016-07-06 11:17:21
+data coming...|Time:2016-07-06 11:17:21
+start to read...wait for data|Time:2016-07-06 11:17:21
+data coming...|Time:2016-07-06 11:17:21
+start to read...wait for data|Time:2016-07-06 11:17:21
+data coming...|Time:2016-07-06 11:17:21
+start to read...wait for data|Time:2016-07-06 11:17:21
+data coming...|Time:2016-07-06 11:17:23
+start to read...wait for data|Time:2016-07-06 11:17:23
+data coming...|Time:2016-07-06 11:17:26
+start to read...wait for data|Time:2016-07-06 11:17:26
+data coming...|Time:2016-07-06 11:17:29
+start to read...wait for data|Time:2016-07-06 11:17:29
+data coming...|Time:2016-07-06 11:17:32
+start to read...wait for data|Time:2016-07-06 11:17:32
+data coming...|Time:2016-07-06 11:17:35
+start to read...wait for data|Time:2016-07-06 11:17:35
+data coming...|Time:2016-07-06 11:17:38
+start to read...wait for data|Time:2016-07-06 11:17:38
+192.168.1.107 closed,exit|Time:2016-07-06 11:17:40|Time:2016-07-06 11:17:40
+new client is coming...|Time:2016-07-06 11:18:00|Time:2016-07-06 11:18:00
+192.168.1.107 connected...|Time:2016-07-06 11:18:00|Time:2016-07-06 11:18:00
+start to read...wait for data|Time:2016-07-06 11:18:00
+data coming...|Time:2016-07-06 11:18:00
+single msg is ok...|Time:2016-07-06 11:18:00
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:18:00
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:18:00
+start to read...wait for data|Time:2016-07-06 11:18:00
+data coming...|Time:2016-07-06 11:18:03
+single msg is ok...|Time:2016-07-06 11:18:03
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:18:03
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:18:03
+start to read...wait for data|Time:2016-07-06 11:18:03
+data coming...|Time:2016-07-06 11:18:06
+single msg is ok...|Time:2016-07-06 11:18:06
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:18:06
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:18:06
+start to read...wait for data|Time:2016-07-06 11:18:06
+data coming...|Time:2016-07-06 11:18:09
+start to read...wait for data|Time:2016-07-06 11:18:09
+data coming...|Time:2016-07-06 11:18:09
+start to read...wait for data|Time:2016-07-06 11:18:09
+data coming...|Time:2016-07-06 11:18:09
+start to read...wait for data|Time:2016-07-06 11:18:09
+data coming...|Time:2016-07-06 11:18:09
+start to read...wait for data|Time:2016-07-06 11:18:09
+data coming...|Time:2016-07-06 11:18:09
+start to read...wait for data|Time:2016-07-06 11:18:09
+data coming...|Time:2016-07-06 11:18:12
+start to read...wait for data|Time:2016-07-06 11:18:12
+data coming...|Time:2016-07-06 11:18:15
+start to read...wait for data|Time:2016-07-06 11:18:15
+data coming...|Time:2016-07-06 11:18:18
+start to read...wait for data|Time:2016-07-06 11:18:18
+data coming...|Time:2016-07-06 11:18:21
+start to read...wait for data|Time:2016-07-06 11:18:21
+192.168.1.107 closed,exit|Time:2016-07-06 11:18:22|Time:2016-07-06 11:18:22
+new client is coming...|Time:2016-07-06 11:18:57|Time:2016-07-06 11:18:57
+192.168.1.107 connected...|Time:2016-07-06 11:18:57|Time:2016-07-06 11:18:57
+start to read...wait for data|Time:2016-07-06 11:18:57
+data coming...|Time:2016-07-06 11:18:57
+single msg is ok...|Time:2016-07-06 11:18:57
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:18:57
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:18:57
+start to read...wait for data|Time:2016-07-06 11:18:57
+data coming...|Time:2016-07-06 11:19:00
+single msg is ok...|Time:2016-07-06 11:19:00
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:00
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:00
+start to read...wait for data|Time:2016-07-06 11:19:00
+data coming...|Time:2016-07-06 11:19:03
+single msg is ok...|Time:2016-07-06 11:19:03
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:03
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:03
+start to read...wait for data|Time:2016-07-06 11:19:03
+data coming...|Time:2016-07-06 11:19:06
+single msg is ok...|Time:2016-07-06 11:19:06
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:06
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:06
+start to read...wait for data|Time:2016-07-06 11:19:06
+data coming...|Time:2016-07-06 11:19:09
+start to read...wait for data|Time:2016-07-06 11:19:09
+data coming...|Time:2016-07-06 11:19:12
+start to read...wait for data|Time:2016-07-06 11:19:12
+data coming...|Time:2016-07-06 11:19:15
+start to read...wait for data|Time:2016-07-06 11:19:15
+192.168.1.107 closed,exit|Time:2016-07-06 11:19:15|Time:2016-07-06 11:19:15
+new client is coming...|Time:2016-07-06 11:19:28|Time:2016-07-06 11:19:28
+192.168.1.107 connected...|Time:2016-07-06 11:19:28|Time:2016-07-06 11:19:28
+start to read...wait for data|Time:2016-07-06 11:19:28
+data coming...|Time:2016-07-06 11:19:28
+single msg is ok...|Time:2016-07-06 11:19:28
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:28
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:28
+start to read...wait for data|Time:2016-07-06 11:19:28
+data coming...|Time:2016-07-06 11:19:31
+single msg is ok...|Time:2016-07-06 11:19:31
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:31
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:31
+start to read...wait for data|Time:2016-07-06 11:19:31
+data coming...|Time:2016-07-06 11:19:34
+single msg is ok...|Time:2016-07-06 11:19:34
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:34
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:34
+start to read...wait for data|Time:2016-07-06 11:19:34
+data coming...|Time:2016-07-06 11:19:37
+single msg is ok...|Time:2016-07-06 11:19:37
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:19:37
+send to 192.168.1.107 code 0000[test]|Time:2016-07-06 11:19:37
+start to read...wait for data|Time:2016-07-06 11:19:37
+data coming...|Time:2016-07-06 11:19:38
+start to read...wait for data|Time:2016-07-06 11:19:38
+data coming...|Time:2016-07-06 11:19:38
+start to read...wait for data|Time:2016-07-06 11:19:38
+data coming...|Time:2016-07-06 11:19:38
+start to read...wait for data|Time:2016-07-06 11:19:38
+data coming...|Time:2016-07-06 11:19:38
+start to read...wait for data|Time:2016-07-06 11:19:38
+data coming...|Time:2016-07-06 11:19:38
+start to read...wait for data|Time:2016-07-06 11:19:38
+data coming...|Time:2016-07-06 11:19:40
+start to read...wait for data|Time:2016-07-06 11:19:40
+data coming...|Time:2016-07-06 11:19:43
+start to read...wait for data|Time:2016-07-06 11:19:43
+data coming...|Time:2016-07-06 11:19:46
+start to read...wait for data|Time:2016-07-06 11:19:46
+data coming...|Time:2016-07-06 11:19:49
+start to read...wait for data|Time:2016-07-06 11:19:49
+data coming...|Time:2016-07-06 11:19:52
+start to read...wait for data|Time:2016-07-06 11:19:52
+data coming...|Time:2016-07-06 11:19:55
+start to read...wait for data|Time:2016-07-06 11:19:55
+data coming...|Time:2016-07-06 11:19:58
+start to read...wait for data|Time:2016-07-06 11:19:58
+data coming...|Time:2016-07-06 11:20:01
+start to read...wait for data|Time:2016-07-06 11:20:01
+data coming...|Time:2016-07-06 11:20:04
+start to read...wait for data|Time:2016-07-06 11:20:04
+data coming...|Time:2016-07-06 11:20:07
+start to read...wait for data|Time:2016-07-06 11:20:07
+data coming...|Time:2016-07-06 11:20:10
+start to read...wait for data|Time:2016-07-06 11:20:10
+data coming...|Time:2016-07-06 11:20:13
+start to read...wait for data|Time:2016-07-06 11:20:13
+data coming...|Time:2016-07-06 11:20:16
+start to read...wait for data|Time:2016-07-06 11:20:16
+data coming...|Time:2016-07-06 11:20:19
+start to read...wait for data|Time:2016-07-06 11:20:19
+data coming...|Time:2016-07-06 11:20:22
+start to read...wait for data|Time:2016-07-06 11:20:22
+data coming...|Time:2016-07-06 11:20:25
+start to read...wait for data|Time:2016-07-06 11:20:25
+new client is coming...|Time:2016-07-06 11:21:56|Time:2016-07-06 11:21:56
+192.168.1.107 connected...|Time:2016-07-06 11:21:56|Time:2016-07-06 11:21:56
+start to read...wait for data|Time:2016-07-06 11:21:56
+data coming...|Time:2016-07-06 11:22:25
+start to read...wait for data|Time:2016-07-06 11:25:03
+data coming...|Time:2016-07-06 11:25:07
+start to read...wait for data|Time:2016-07-06 11:25:32
+192.168.1.107 closed,exit|Time:2016-07-06 11:27:10|Time:2016-07-06 11:27:10
+new client is coming...|Time:2016-07-06 11:27:18|Time:2016-07-06 11:27:18
+192.168.1.107 connected...|Time:2016-07-06 11:27:18|Time:2016-07-06 11:27:18
+start to read...wait for data|Time:2016-07-06 11:27:18
+data coming...|Time:2016-07-06 11:28:40
+start to read...wait for data|Time:2016-07-06 11:29:12
+data coming...|Time:2016-07-06 11:29:12
+start to read...wait for data|Time:2016-07-06 11:29:18
+192.168.1.107 closed,exit|Time:2016-07-06 11:29:49|Time:2016-07-06 11:29:49
+new client is coming...|Time:2016-07-06 11:29:57|Time:2016-07-06 11:29:57
+192.168.1.107 connected...|Time:2016-07-06 11:29:57|Time:2016-07-06 11:29:57
+start to read...wait for data|Time:2016-07-06 11:29:57
+new client is coming...|Time:2016-07-06 11:30:09|Time:2016-07-06 11:30:09
+192.168.1.107 connected...|Time:2016-07-06 11:30:09|Time:2016-07-06 11:30:09
+start to read...wait for data|Time:2016-07-06 11:30:09
+192.168.1.107 closed,exit|Time:2016-07-06 11:30:21|Time:2016-07-06 11:30:21
+data coming...|Time:2016-07-06 11:30:51
+start to read...wait for data|Time:2016-07-06 11:30:55
+data coming...|Time:2016-07-06 11:31:07
+start to read...wait for data|Time:2016-07-06 11:31:13
+data coming...|Time:2016-07-06 11:32:55
+start to read...wait for data|Time:2016-07-06 11:33:06
+data coming...|Time:2016-07-06 11:33:10
+single msg is ok...|Time:2016-07-06 11:33:12
+org.json.JSONException: Unterminated string at character 28958|Time:2016-07-06 11:33:12
+192.168.1.107 closed,exit|Time:2016-07-06 11:33:12|Time:2016-07-06 11:33:12
+new client is coming...|Time:2016-07-06 11:33:30|Time:2016-07-06 11:33:30
+192.168.1.107 connected...|Time:2016-07-06 11:33:30|Time:2016-07-06 11:33:30
+start to read...wait for data|Time:2016-07-06 11:33:30
+data coming...|Time:2016-07-06 11:33:46
+start to read...wait for data|Time:2016-07-06 11:33:53
+data coming...|Time:2016-07-06 11:34:08
+single msg is ok...|Time:2016-07-06 11:34:11
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:34:11
+start to read...wait for data|Time:2016-07-06 11:34:12
+192.168.1.107 closed,exit|Time:2016-07-06 11:34:56|Time:2016-07-06 11:34:56
+new client is coming...|Time:2016-07-06 11:35:02|Time:2016-07-06 11:35:02
+192.168.1.107 connected...|Time:2016-07-06 11:35:02|Time:2016-07-06 11:35:02
+start to read...wait for data|Time:2016-07-06 11:35:02
+data coming...|Time:2016-07-06 11:35:21
+start to read...wait for data|Time:2016-07-06 11:35:26
+data coming...|Time:2016-07-06 11:35:34
+single msg is ok...|Time:2016-07-06 11:35:38
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:35:38
+start to read...wait for data|Time:2016-07-06 11:35:38
+data coming...|Time:2016-07-06 11:36:23
+start to read...wait for data|Time:2016-07-06 11:36:39
+data coming...|Time:2016-07-06 11:36:50
+start to read...wait for data|Time:2016-07-06 11:36:54
+192.168.1.107 closed,exit|Time:2016-07-06 11:37:16|Time:2016-07-06 11:37:16
+new client is coming...|Time:2016-07-06 11:41:01|Time:2016-07-06 11:41:01
+192.168.1.107 connected...|Time:2016-07-06 11:41:01|Time:2016-07-06 11:41:01
+start to read...wait for data|Time:2016-07-06 11:41:01
+data coming...|Time:2016-07-06 11:41:49
+start to read...wait for data|Time:2016-07-06 11:41:53
+data coming...|Time:2016-07-06 11:41:57
+single msg is ok...|Time:2016-07-06 11:42:04
+command is ok from 192.168.1.107, responding... |Time:2016-07-06 11:42:04
+start to read...wait for data|Time:2016-07-06 11:42:05
+data coming...|Time:2016-07-06 11:42:34
+start to read...wait for data|Time:2016-07-06 11:42:38
+data coming...|Time:2016-07-06 11:42:42
+start to read...wait for data|Time:2016-07-06 11:42:45
+new client is coming...|Time:2016-07-06 11:43:40|Time:2016-07-06 11:43:40
+192.168.1.107 connected...|Time:2016-07-06 11:43:40|Time:2016-07-06 11:43:40
+start to read...wait for data|Time:2016-07-06 11:43:40
+192.168.1.107 closed,exit|Time:2016-07-06 11:43:44|Time:2016-07-06 11:43:44
+data coming...|Time:2016-07-06 11:43:51
+start to read...wait for data|Time:2016-07-06 11:43:57
+data coming...|Time:2016-07-06 11:44:00
+start to read...wait for data|Time:2016-07-06 11:44:40
+new client is coming...|Time:2016-07-06 11:47:49|Time:2016-07-06 11:47:49
+192.168.1.107 connected...|Time:2016-07-06 11:47:49|Time:2016-07-06 11:47:49
+start to read...wait for data|Time:2016-07-06 11:47:49
+data coming...|Time:2016-07-06 11:48:09
+start to read...wait for data|Time:2016-07-06 11:48:47
+data coming...|Time:2016-07-06 11:48:56
+start to read...wait for data|Time:2016-07-06 11:49:38
+new client is coming...|Time:2016-07-06 11:50:35|Time:2016-07-06 11:50:35
+192.168.1.107 connected...|Time:2016-07-06 11:50:35|Time:2016-07-06 11:50:35
+start to read...wait for data|Time:2016-07-06 11:50:35
+data coming...|Time:2016-07-06 11:50:41
+start to read...wait for data|Time:2016-07-06 11:50:48
+data coming...|Time:2016-07-06 11:50:48
+start to read...wait for data|Time:2016-07-06 11:50:54
+new client is coming...|Time:2016-07-06 11:53:11|Time:2016-07-06 11:53:11
+192.168.1.107 connected...|Time:2016-07-06 11:53:11|Time:2016-07-06 11:53:11
+start to read...wait for data|Time:2016-07-06 11:53:11
+data coming...|Time:2016-07-06 11:53:49
+start to read...wait for data|Time:2016-07-06 11:53:52
+data coming...|Time:2016-07-06 11:53:52
+start to read...wait for data|Time:2016-07-06 11:53:54
+msgProcessor IOException..|java.net.SocketTimeoutException: Read timed out|2016-07-06 11:58:54|Time:2016-07-06 11:58:54
+192.168.1.107 closed,exit|Time:2016-07-06 11:58:54|Time:2016-07-06 11:58:54
+new client is coming...|Time:2016-07-06 11:58:55|Time:2016-07-06 11:58:55
+192.168.1.107 connected...|Time:2016-07-06 11:58:55|Time:2016-07-06 11:58:55
+start to read...wait for data|Time:2016-07-06 11:58:55
+new client is coming...|Time:2016-07-06 11:59:34|Time:2016-07-06 11:59:34
+192.168.1.107 connected...|Time:2016-07-06 11:59:34|Time:2016-07-06 11:59:34
+start to read...wait for data|Time:2016-07-06 11:59:34
+data coming...|Time:2016-07-06 11:59:41

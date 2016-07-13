@@ -1,0 +1,25 @@
+new client is coming...|Time:2016-05-17 12:18:17|Time:2016-05-17 12:18:17
+127.0.0.1 connected...|Time:2016-05-17 12:19:22|Time:2016-05-17 12:19:22
+start to read...wait for data|Time:2016-05-17 12:19:22
+data coming...|Time:2016-05-17 12:19:22
+single msg is ok...|Time:2016-05-17 12:19:22
+command is ok from 127.0.0.1, responding... |Time:2016-05-17 12:19:22
+send to 127.0.0.1 code 0000[test]|Time:2016-05-17 12:19:23
+start to read...wait for data|Time:2016-05-17 12:19:23
+new client is coming...|Time:2016-05-17 12:21:19|Time:2016-05-17 12:21:19
+127.0.0.1 connected...|Time:2016-05-17 12:21:19|Time:2016-05-17 12:21:19
+start to read...wait for data|Time:2016-05-17 12:21:19
+data coming...|Time:2016-05-17 12:21:19
+single msg is ok...|Time:2016-05-17 12:21:19
+command is ok from 127.0.0.1, responding... |Time:2016-05-17 12:21:19
+send to 127.0.0.1 code 0000[test]|Time:2016-05-17 12:21:20
+start to read...wait for data|Time:2016-05-17 12:21:20
+127.0.0.1 closed,exit|Time:2016-05-17 12:21:39|Time:2016-05-17 12:21:39
+new client is coming...|Time:2016-05-17 12:29:42|Time:2016-05-17 12:29:42
+127.0.0.1 connected...|Time:2016-05-17 12:29:42|Time:2016-05-17 12:29:42
+start to read...wait for data|Time:2016-05-17 12:29:43
+data coming...|Time:2016-05-17 12:29:43
+single msg is ok...|Time:2016-05-17 12:29:43
+command is ok from 127.0.0.1, responding... |Time:2016-05-17 12:29:43
+send to 127.0.0.1 code 0000[test]|Time:2016-05-17 12:29:44
+start to read...wait for data|Time:2016-05-17 12:29:44

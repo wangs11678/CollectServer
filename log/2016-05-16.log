@@ -1,0 +1,156 @@
+127.0.0.1 connected...|Time:2016-05-16 10:17:46|Time:2016-05-16 10:17:46
+start to read...wait for data|Time:2016-05-16 10:17:49|Time:2016-05-16 10:17:49
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:17:49|Time:2016-05-16 10:17:49
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:17:50|Time:2016-05-16 10:17:50
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:17:50|Time:2016-05-16 10:17:50
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:17:50|Time:2016-05-16 10:17:50
+start to read...wait for data|Time:2016-05-16 10:19:13|Time:2016-05-16 10:19:13
+127.0.0.1 closed,exit|Time:2016-05-16 10:19:13|Time:2016-05-16 10:19:13
+127.0.0.1 connected...|Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+start to read...wait for data|Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+start to read...wait for data|Time:2016-05-16 10:19:34|Time:2016-05-16 10:19:34
+127.0.0.1 closed,exit|Time:2016-05-16 10:20:16|Time:2016-05-16 10:20:16
+127.0.0.1 connected...|Time:2016-05-16 10:21:11|Time:2016-05-16 10:21:11
+start to read...wait for data|Time:2016-05-16 10:21:11|Time:2016-05-16 10:21:11
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:21:16|Time:2016-05-16 10:21:16
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:21:17|Time:2016-05-16 10:21:17
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:21:17|Time:2016-05-16 10:21:17
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:21:17|Time:2016-05-16 10:21:17
+start to read...wait for data|Time:2016-05-16 10:21:17|Time:2016-05-16 10:21:17
+127.0.0.1 closed,exit|Time:2016-05-16 10:23:31|Time:2016-05-16 10:23:31
+127.0.0.1 connected...|Time:2016-05-16 10:26:14|Time:2016-05-16 10:26:14
+start to read...wait for data|Time:2016-05-16 10:26:14|Time:2016-05-16 10:26:14
+data coming...|Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+single msg is ok...|Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+single msg is ok...|Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+start to read...wait for data|Time:2016-05-16 10:26:20|Time:2016-05-16 10:26:20
+127.0.0.1 closed,exit|Time:2016-05-16 10:26:31|Time:2016-05-16 10:26:31
+127.0.0.1 connected...|Time:2016-05-16 10:29:34|Time:2016-05-16 10:29:34
+start to read...wait for data|Time:2016-05-16 10:29:34|Time:2016-05-16 10:29:34
+data coming...|Time:2016-05-16 10:29:39|Time:2016-05-16 10:29:39
+single msg is ok...|Time:2016-05-16 10:29:39|Time:2016-05-16 10:29:39
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:29:39|Time:2016-05-16 10:29:39
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:29:39|Time:2016-05-16 10:29:39
+start to read...wait for data|Time:2016-05-16 10:29:39|Time:2016-05-16 10:29:39
+data coming...|Time:2016-05-16 10:29:50|Time:2016-05-16 10:29:50
+single msg is ok...|Time:2016-05-16 10:29:50|Time:2016-05-16 10:29:50
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:29:50|Time:2016-05-16 10:29:50
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:29:50|Time:2016-05-16 10:29:50
+start to read...wait for data|Time:2016-05-16 10:29:50|Time:2016-05-16 10:29:50
+data coming...|Time:2016-05-16 10:29:59|Time:2016-05-16 10:29:59
+single msg is ok...|Time:2016-05-16 10:29:59|Time:2016-05-16 10:29:59
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:29:59|Time:2016-05-16 10:29:59
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:29:59|Time:2016-05-16 10:29:59
+start to read...wait for data|Time:2016-05-16 10:29:59|Time:2016-05-16 10:29:59
+data coming...|Time:2016-05-16 10:30:09|Time:2016-05-16 10:30:09
+single msg is ok...|Time:2016-05-16 10:30:09|Time:2016-05-16 10:30:09
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:30:09|Time:2016-05-16 10:30:09
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:30:09|Time:2016-05-16 10:30:09
+start to read...wait for data|Time:2016-05-16 10:30:09|Time:2016-05-16 10:30:09
+data coming...|Time:2016-05-16 10:30:14|Time:2016-05-16 10:30:14
+single msg is ok...|Time:2016-05-16 10:30:14|Time:2016-05-16 10:30:14
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:30:14|Time:2016-05-16 10:30:14
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:30:14|Time:2016-05-16 10:30:14
+start to read...wait for data|Time:2016-05-16 10:30:14|Time:2016-05-16 10:30:14
+data coming...|Time:2016-05-16 10:30:24|Time:2016-05-16 10:30:24
+single msg is ok...|Time:2016-05-16 10:30:24|Time:2016-05-16 10:30:24
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:30:24|Time:2016-05-16 10:30:24
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:30:24|Time:2016-05-16 10:30:24
+start to read...wait for data|Time:2016-05-16 10:30:24|Time:2016-05-16 10:30:24
+data coming...|Time:2016-05-16 10:30:34|Time:2016-05-16 10:30:34
+single msg is ok...|Time:2016-05-16 10:30:34|Time:2016-05-16 10:30:34
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:30:34|Time:2016-05-16 10:30:34
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:30:34|Time:2016-05-16 10:30:34
+start to read...wait for data|Time:2016-05-16 10:30:34|Time:2016-05-16 10:30:34
+data coming...|Time:2016-05-16 10:30:45|Time:2016-05-16 10:30:45
+single msg is ok...|Time:2016-05-16 10:30:45|Time:2016-05-16 10:30:45
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:30:45|Time:2016-05-16 10:30:45
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:30:45|Time:2016-05-16 10:30:45
+start to read...wait for data|Time:2016-05-16 10:30:45|Time:2016-05-16 10:30:45
+127.0.0.1 closed,exit|Time:2016-05-16 10:30:49|Time:2016-05-16 10:30:49
+127.0.0.1 connected...|Time:2016-05-16 10:39:33|Time:2016-05-16 10:39:33
+start to read...wait for data|Time:2016-05-16 10:39:33|Time:2016-05-16 10:39:33
+data coming...|Time:2016-05-16 10:39:33|Time:2016-05-16 10:39:33
+single msg is ok...|Time:2016-05-16 10:39:33|Time:2016-05-16 10:39:33
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:39:33|Time:2016-05-16 10:39:33
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:39:56|Time:2016-05-16 10:39:56
+start to read...wait for data|Time:2016-05-16 10:39:56|Time:2016-05-16 10:39:56
+data coming...|Time:2016-05-16 10:40:13|Time:2016-05-16 10:40:13
+single msg is ok...|Time:2016-05-16 10:40:13|Time:2016-05-16 10:40:13
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 10:40:13|Time:2016-05-16 10:40:13
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 10:41:22|Time:2016-05-16 10:41:22
+start to read...wait for data|Time:2016-05-16 10:41:48|Time:2016-05-16 10:41:48
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-05-16 10:42:01|Time:2016-05-16 10:42:01
+127.0.0.1 closed,exit|Time:2016-05-16 10:42:40|Time:2016-05-16 10:42:40
+new client is coming...|Time:2016-05-16 11:22:59|Time:2016-05-16 11:22:59
+127.0.0.1 connected...|Time:2016-05-16 11:22:59|Time:2016-05-16 11:22:59
+start to read...wait for data|Time:2016-05-16 11:22:59|Time:2016-05-16 11:22:59
+data coming...|Time:2016-05-16 11:23:30|Time:2016-05-16 11:23:30
+single msg is ok...|Time:2016-05-16 11:23:30|Time:2016-05-16 11:23:30
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:23:30|Time:2016-05-16 11:23:30
+new client is coming...|Time:2016-05-16 11:25:06|Time:2016-05-16 11:25:06
+127.0.0.1 connected...|Time:2016-05-16 11:25:06|Time:2016-05-16 11:25:06
+start to read...wait for data|Time:2016-05-16 11:25:06|Time:2016-05-16 11:25:06
+data coming...|Time:2016-05-16 11:25:10|Time:2016-05-16 11:25:10
+single msg is ok...|Time:2016-05-16 11:25:10|Time:2016-05-16 11:25:10
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:25:10|Time:2016-05-16 11:25:10
+new client is coming...|Time:2016-05-16 11:26:04|Time:2016-05-16 11:26:04
+127.0.0.1 connected...|Time:2016-05-16 11:26:04|Time:2016-05-16 11:26:04
+start to read...wait for data|Time:2016-05-16 11:26:04|Time:2016-05-16 11:26:04
+data coming...|Time:2016-05-16 11:26:12|Time:2016-05-16 11:26:12
+single msg is ok...|Time:2016-05-16 11:26:12|Time:2016-05-16 11:26:12
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:26:12|Time:2016-05-16 11:26:12
+new client is coming...|Time:2016-05-16 11:27:26|Time:2016-05-16 11:27:26
+127.0.0.1 connected...|Time:2016-05-16 11:27:26|Time:2016-05-16 11:27:26
+start to read...wait for data|Time:2016-05-16 11:27:26|Time:2016-05-16 11:27:26
+data coming...|Time:2016-05-16 11:27:26|Time:2016-05-16 11:27:26
+single msg is ok...|Time:2016-05-16 11:27:26|Time:2016-05-16 11:27:26
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:27:26|Time:2016-05-16 11:27:26
+new client is coming...|Time:2016-05-16 11:28:59|Time:2016-05-16 11:28:59
+127.0.0.1 connected...|Time:2016-05-16 11:28:59|Time:2016-05-16 11:28:59
+start to read...wait for data|Time:2016-05-16 11:28:59|Time:2016-05-16 11:28:59
+data coming...|Time:2016-05-16 11:29:02|Time:2016-05-16 11:29:02
+single msg is ok...|Time:2016-05-16 11:29:02|Time:2016-05-16 11:29:02
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:29:02|Time:2016-05-16 11:29:02
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 11:29:10|Time:2016-05-16 11:29:10
+start to read...wait for data|Time:2016-05-16 11:29:10|Time:2016-05-16 11:29:10
+data coming...|Time:2016-05-16 11:29:20|Time:2016-05-16 11:29:20
+single msg is ok...|Time:2016-05-16 11:29:20|Time:2016-05-16 11:29:20
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:29:20|Time:2016-05-16 11:29:20
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 11:29:20|Time:2016-05-16 11:29:20
+start to read...wait for data|Time:2016-05-16 11:29:20|Time:2016-05-16 11:29:20
+127.0.0.1 closed,exit|Time:2016-05-16 11:30:02|Time:2016-05-16 11:30:02
+new client is coming...|Time:2016-05-16 11:31:58|Time:2016-05-16 11:31:58
+127.0.0.1 connected...|Time:2016-05-16 11:31:58|Time:2016-05-16 11:31:58
+start to read...wait for data|Time:2016-05-16 11:31:58|Time:2016-05-16 11:31:58
+data coming...|Time:2016-05-16 11:33:03|Time:2016-05-16 11:33:03
+single msg is ok...|Time:2016-05-16 11:33:03|Time:2016-05-16 11:33:03
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:33:03|Time:2016-05-16 11:33:03
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 11:33:03|Time:2016-05-16 11:33:03
+start to read...wait for data|Time:2016-05-16 11:33:03|Time:2016-05-16 11:33:03
+127.0.0.1 closed,exit|Time:2016-05-16 11:34:10|Time:2016-05-16 11:34:10
+new client is coming...|Time:2016-05-16 11:35:22|Time:2016-05-16 11:35:22
+127.0.0.1 connected...|Time:2016-05-16 11:35:22|Time:2016-05-16 11:35:22
+start to read...wait for data|Time:2016-05-16 11:35:22|Time:2016-05-16 11:35:22
+data coming...|Time:2016-05-16 11:35:28|Time:2016-05-16 11:35:28
+single msg is ok...|Time:2016-05-16 11:35:28|Time:2016-05-16 11:35:28
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:35:28|Time:2016-05-16 11:35:28
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 11:35:28|Time:2016-05-16 11:35:28
+start to read...wait for data|Time:2016-05-16 11:35:28|Time:2016-05-16 11:35:28
+127.0.0.1 closed,exit|Time:2016-05-16 11:35:40|Time:2016-05-16 11:35:40
+new client is coming...|Time:2016-05-16 11:51:56|Time:2016-05-16 11:52:49
+127.0.0.1 connected...|Time:2016-05-16 11:52:49|Time:2016-05-16 11:52:49
+start to read...wait for data|Time:2016-05-16 11:52:49
+data coming...|Time:2016-05-16 11:52:55
+single msg is ok...|Time:2016-05-16 11:52:55
+command is ok from 127.0.0.1, responding... |Time:2016-05-16 11:52:55
+send to 127.0.0.1 code 0000[test]|Time:2016-05-16 11:52:57
+start to read...wait for data|Time:2016-05-16 11:52:57

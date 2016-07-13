@@ -1,0 +1,13 @@
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_05_14' doesn't exist
+
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_05_14' doesn't exist
+
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_05_14' doesn't exist
+
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_05_14' doesn't exist
+|Time:2016-05-14 05:16:00
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_05_14' doesn't exist
+|Time:2016-05-14 05:16:01
+com.mysql.jdbc.exceptions.MySQLSyntaxErrorException: Table 'smart_care.his_2016_05_14' doesn't exist
+|Time:2016-05-14 05:16:03
+org.json.JSONException: A JSONObject text must begin with '{' at character 1|Time:2016-05-14 05:17:12

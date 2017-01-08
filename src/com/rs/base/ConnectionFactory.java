@@ -22,17 +22,18 @@ public class ConnectionFactory {
               ds.setDriverClass("com.mysql.jdbc.Driver");  // 参数由 Config 类根据配置文件读取
               
             //--------------------以下是生产部署参数-------------------------------------------
-            ds.setJdbcUrl("jdbc:mysql://localhost/smart_care?characterEncoding=UTF-8");//生产部署地址
+            ds.setJdbcUrl("jdbc:mysql://localhost/collect_data?characterEncoding=UTF-8");//生产部署地址
             //ds.setJdbcUrl("jdbc:mysql://202.115.16.248/xrcms");//远程调试
                
-         	  ds.setUser("root");
-        //   ds.setPassword("root");//测试密码
-         ds.setPassword("kjlhDB20160430!");//生产密码
+        	  ds.setUser("root");
+           ds.setPassword("root");//测试密码
+//            ds.setUser("collect_data");
+//        ds.setPassword("collect_data725");//生产密码
               
          
          ds.setMaxIdleTime(25200);
             // 设置连接池的最大连接数
-              ds.setMaxPoolSize(800);
+              ds.setMaxPoolSize(1000);
             // 设置连接池的最小连接数
               ds.setMinPoolSize(30);
               ds.setMaxStatements(0);

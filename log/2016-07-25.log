@@ -1,0 +1,9 @@
+new client is coming...|Time:2016-07-25 11:05:29|Time:2016-07-25 11:05:29
+127.0.0.1 connected...|Time:2016-07-25 11:05:29|Time:2016-07-25 11:05:29
+start to read...wait for data|Time:2016-07-25 11:05:29
+data coming...|Time:2016-07-25 11:05:29
+single msg is ok...|Time:2016-07-25 11:05:29
+command is ok from 127.0.0.1, responding... |Time:2016-07-25 11:05:29
+send back to 127.0.0.1|Time:2016-07-25 11:05:30
+start to read...wait for data|Time:2016-07-25 11:05:30
+127.0.0.1 closed,exit|Time:2016-07-25 11:05:32|Time:2016-07-25 11:05:32

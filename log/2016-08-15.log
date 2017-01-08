@@ -1,0 +1,88 @@
+new client is coming...|Time:2016-08-15 03:34:20|Time:2016-08-15 03:34:20
+192.168.1.110 connected...|Time:2016-08-15 03:34:20|Time:2016-08-15 03:34:20
+start to read...wait for data|Time:2016-08-15 03:34:20
+data coming...|Time:2016-08-15 03:34:20
+single msg is ok...|Time:2016-08-15 03:34:20
+command is ok from 192.168.1.110, responding... |Time:2016-08-15 03:34:20
+send back to 192.168.1.110|Time:2016-08-15 03:34:21
+start to read...wait for data|Time:2016-08-15 03:34:21
+192.168.1.110 closed,exit|Time:2016-08-15 03:34:22|Time:2016-08-15 03:34:22
+new client is coming...|Time:2016-08-15 03:34:22|Time:2016-08-15 03:34:22
+192.168.1.110 connected...|Time:2016-08-15 03:34:22|Time:2016-08-15 03:34:22
+start to read...wait for data|Time:2016-08-15 03:34:22
+data coming...|Time:2016-08-15 03:34:22
+start to read...wait for data|Time:2016-08-15 03:34:22
+data coming...|Time:2016-08-15 03:34:22
+start to read...wait for data|Time:2016-08-15 03:34:22
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-15 03:35:28|Time:2016-08-15 03:35:28
+192.168.1.110 closed,exit|Time:2016-08-15 03:35:28|Time:2016-08-15 03:35:28
+new client is coming...|Time:2016-08-15 03:35:38|Time:2016-08-15 03:35:38
+192.168.1.110 connected...|Time:2016-08-15 03:35:38|Time:2016-08-15 03:35:38
+start to read...wait for data|Time:2016-08-15 03:35:38
+data coming...|Time:2016-08-15 03:35:38
+single msg is ok...|Time:2016-08-15 03:35:38
+command is ok from 192.168.1.110, responding... |Time:2016-08-15 03:35:38
+send back to 192.168.1.110|Time:2016-08-15 03:35:38
+start to read...wait for data|Time:2016-08-15 03:35:38
+192.168.1.110 closed,exit|Time:2016-08-15 03:35:38|Time:2016-08-15 03:35:38
+new client is coming...|Time:2016-08-15 03:35:38|Time:2016-08-15 03:35:38
+192.168.1.110 connected...|Time:2016-08-15 03:35:38|Time:2016-08-15 03:35:38
+start to read...wait for data|Time:2016-08-15 03:35:38
+data coming...|Time:2016-08-15 03:35:38
+start to read...wait for data|Time:2016-08-15 03:35:38
+data coming...|Time:2016-08-15 03:35:38
+start to read...wait for data|Time:2016-08-15 03:35:38
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-15 03:36:00|Time:2016-08-15 03:36:00
+192.168.1.110 closed,exit|Time:2016-08-15 03:36:00|Time:2016-08-15 03:36:00
+new client is coming...|Time:2016-08-15 03:36:02|Time:2016-08-15 03:36:02
+192.168.1.110 connected...|Time:2016-08-15 03:36:02|Time:2016-08-15 03:36:02
+start to read...wait for data|Time:2016-08-15 03:36:02
+data coming...|Time:2016-08-15 03:36:02
+single msg is ok...|Time:2016-08-15 03:36:16
+command is ok from 192.168.1.110, responding... |Time:2016-08-15 03:36:16
+send back to 192.168.1.110|Time:2016-08-15 03:36:16
+start to read...wait for data|Time:2016-08-15 03:36:16
+192.168.1.110 closed,exit|Time:2016-08-15 03:36:16|Time:2016-08-15 03:36:16
+new client is coming...|Time:2016-08-15 03:36:16|Time:2016-08-15 03:36:16
+192.168.1.110 connected...|Time:2016-08-15 03:36:16|Time:2016-08-15 03:36:16
+start to read...wait for data|Time:2016-08-15 03:36:16
+data coming...|Time:2016-08-15 03:36:16
+start to read...wait for data|Time:2016-08-15 03:37:26
+data coming...|Time:2016-08-15 03:37:26
+start to read...wait for data|Time:2016-08-15 03:37:33
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-15 03:37:33|Time:2016-08-15 03:37:33
+192.168.1.110 closed,exit|Time:2016-08-15 03:37:33|Time:2016-08-15 03:37:33
+new client is coming...|Time:2016-08-15 03:37:41|Time:2016-08-15 03:37:41
+192.168.1.110 connected...|Time:2016-08-15 03:37:41|Time:2016-08-15 03:37:41
+start to read...wait for data|Time:2016-08-15 03:37:41
+data coming...|Time:2016-08-15 03:37:41
+single msg is ok...|Time:2016-08-15 03:37:41
+command is ok from 192.168.1.110, responding... |Time:2016-08-15 03:37:41
+send back to 192.168.1.110|Time:2016-08-15 03:37:41
+start to read...wait for data|Time:2016-08-15 03:37:41
+192.168.1.110 closed,exit|Time:2016-08-15 03:37:41|Time:2016-08-15 03:37:41
+new client is coming...|Time:2016-08-15 03:37:41|Time:2016-08-15 03:37:41
+192.168.1.110 connected...|Time:2016-08-15 03:37:41|Time:2016-08-15 03:37:41
+start to read...wait for data|Time:2016-08-15 03:37:41
+data coming...|Time:2016-08-15 03:37:41
+start to read...wait for data|Time:2016-08-15 03:37:41
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-15 03:37:47|Time:2016-08-15 03:37:47
+192.168.1.110 closed,exit|Time:2016-08-15 03:37:47|Time:2016-08-15 03:37:47
+new client is coming...|Time:2016-08-15 03:37:49|Time:2016-08-15 03:37:49
+192.168.1.110 connected...|Time:2016-08-15 03:37:49|Time:2016-08-15 03:37:49
+start to read...wait for data|Time:2016-08-15 03:37:49
+data coming...|Time:2016-08-15 03:37:49
+single msg is ok...|Time:2016-08-15 03:38:12
+command is ok from 192.168.1.110, responding... |Time:2016-08-15 03:38:12
+send back to 192.168.1.110|Time:2016-08-15 03:38:12
+start to read...wait for data|Time:2016-08-15 03:38:12
+192.168.1.110 closed,exit|Time:2016-08-15 03:38:12|Time:2016-08-15 03:38:12
+new client is coming...|Time:2016-08-15 03:38:12|Time:2016-08-15 03:38:12
+192.168.1.110 connected...|Time:2016-08-15 03:38:12|Time:2016-08-15 03:38:12
+start to read...wait for data|Time:2016-08-15 03:38:12
+data coming...|Time:2016-08-15 03:38:12
+start to read...wait for data|Time:2016-08-15 03:38:26
+data coming...|Time:2016-08-15 03:38:26
+start to read...wait for data|Time:2016-08-15 03:39:15
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-15 03:44:06|Time:2016-08-15 03:44:06
+192.168.1.110 closed,exit|Time:2016-08-15 03:44:06|Time:2016-08-15 03:44:06

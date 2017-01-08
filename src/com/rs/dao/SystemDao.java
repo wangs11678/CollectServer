@@ -285,7 +285,7 @@ public class SystemDao {
      */
     public static HashMap<String, String> getClientNewVersion(String  type) throws SQLException  
     {
-    	    HashMap<String, String> al=new  HashMap<String, String>();
+    	    //HashMap<String, String> al=new  HashMap<String, String>();
 		   
 			String sql="SELECT clientVersion,filePath,md5 FROM client_version where type=? order by clientVersion desc limit 1";
 			//从连接池获得一个可用的连接
@@ -384,5 +384,60 @@ public class SystemDao {
     	return rs;
     }
     
+    /**
+     * 增加识别记录
+     * @param serial
+     * @param rsNumber
+     * @param time
+     * @return
+     * @throws SQLException
+     */
+    public static int insertRecognition(int serial,String rsNumber ,String  time,int msgId) throws SQLException
+    {
+    		
+    		//构造 SQL 语句
+    		String sql="insert into recognition (deviceSerial,rsNumber,addTime,msgId) values(?,?,?,?)";
+    		//从连接池获得一个可用的连接
+    		Connection connection=ConnectionFactory.getConnection();
+    		PreparedStatement pst;//预编译语句
+
+    		int rs=0;
+	    		pst=connection.prepareStatement(sql);
+				pst.setInt(1, serial);//设置参数
+				pst.setString(2, rsNumber);//设置参数
+				pst.setString(3, time);//设置参数
+				pst.setInt(4, msgId);//设置参数
+				rs = pst.executeUpdate();
+
+				connection.close(); 
+
+    		
+    	return rs;
+    }
+    /**
+     * 修改PhotoURl
+     * @param deviceSerial
+     * @param msgId
+     * @param UrlPath
+     * @return
+     * @throws SQLException
+     */
+    public static int updatePhotoUrl(int  deviceSerial, int msgId,String UrlPath) throws SQLException 
+    {
+    	int rs=-1;
+    		//构造 SQL 语句
+    		String sql="update recognition set photoUrl=?  where deviceSerial=? and msgId=?";
+    		//从连接池获得一个可用的连接
+    		Connection connection=ConnectionFactory.getConnection();
+    		PreparedStatement pst;//预编译语句
+				pst=connection.prepareStatement(sql);
+				pst.setString(1, UrlPath);//设置参数
+				pst.setInt(2, deviceSerial);//设置参数
+				pst.setInt(3, msgId);//设置参数
+	    		 rs=pst.executeUpdate();//执行查询语句SQL
+	    		connection.close(); 
+			
+    	return rs;
+    }
     
 }

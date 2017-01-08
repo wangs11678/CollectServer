@@ -1,4 +1,4 @@
-package com.rs;
+package com.rs; 
 
 import java.io.IOException;
  
@@ -14,14 +14,15 @@ public class rsServer {
 	/**
 	 * @param args
 	 */
-	public static int PORT = 10101;
+	public static int PORT = 20101;
+	//public static int PORT = 6666;
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub		
  
 		
 		 
 			ServerSocket   server=new ServerSocket(PORT);
-			System.out.println("sr_server started");
+			System.out.println("collect server started");
 			while(true)
 			{
 				System.out.println("ready to accept new client...");
@@ -30,7 +31,7 @@ public class rsServer {
 				Thread msgThread=new Thread(new msgProcessor(clientSocket));
 				msgThread.start();
 				System.out.println("finish new client...");
-				
+				System.out.println();
 			}
 		 
 		

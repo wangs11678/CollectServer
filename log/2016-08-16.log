@@ -1,0 +1,429 @@
+new client is coming...|Time:2016-08-16 03:57:05|Time:2016-08-16 03:57:06
+127.0.0.1 connected...|Time:2016-08-16 03:57:06|Time:2016-08-16 03:57:06
+start to read...wait for data|Time:2016-08-16 03:57:06
+data coming...|Time:2016-08-16 03:57:06
+single msg is ok...|Time:2016-08-16 03:57:06
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 03:57:06
+new client is coming...|Time:2016-08-16 03:59:13|Time:2016-08-16 03:59:13
+127.0.0.1 connected...|Time:2016-08-16 03:59:13|Time:2016-08-16 03:59:13
+start to read...wait for data|Time:2016-08-16 03:59:13
+data coming...|Time:2016-08-16 03:59:13
+single msg is ok...|Time:2016-08-16 03:59:13
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 03:59:13
+new client is coming...|Time:2016-08-16 04:00:09|Time:2016-08-16 04:00:09
+127.0.0.1 connected...|Time:2016-08-16 04:00:09|Time:2016-08-16 04:00:09
+start to read...wait for data|Time:2016-08-16 04:00:09
+data coming...|Time:2016-08-16 04:00:09
+single msg is ok...|Time:2016-08-16 04:00:09
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:00:09
+new client is coming...|Time:2016-08-16 04:00:47|Time:2016-08-16 04:00:47
+127.0.0.1 connected...|Time:2016-08-16 04:00:47|Time:2016-08-16 04:00:47
+start to read...wait for data|Time:2016-08-16 04:00:47
+data coming...|Time:2016-08-16 04:00:47
+single msg is ok...|Time:2016-08-16 04:00:47
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:00:47
+new client is coming...|Time:2016-08-16 04:04:32|Time:2016-08-16 04:04:33
+127.0.0.1 connected...|Time:2016-08-16 04:04:33|Time:2016-08-16 04:04:33
+start to read...wait for data|Time:2016-08-16 04:04:33
+data coming...|Time:2016-08-16 04:04:33
+single msg is ok...|Time:2016-08-16 04:04:33
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:04:33
+new client is coming...|Time:2016-08-16 04:13:31|Time:2016-08-16 04:13:31
+127.0.0.1 connected...|Time:2016-08-16 04:13:31|Time:2016-08-16 04:13:31
+start to read...wait for data|Time:2016-08-16 04:13:31
+data coming...|Time:2016-08-16 04:13:31
+single msg is ok...|Time:2016-08-16 04:13:31
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:13:31
+send back to 127.0.0.1|Time:2016-08-16 04:13:31
+start to read...wait for data|Time:2016-08-16 04:13:31
+127.0.0.1 closed,exit|Time:2016-08-16 04:13:31|Time:2016-08-16 04:13:31
+new client is coming...|Time:2016-08-16 04:16:43|Time:2016-08-16 04:16:43
+127.0.0.1 connected...|Time:2016-08-16 04:16:43|Time:2016-08-16 04:16:43
+start to read...wait for data|Time:2016-08-16 04:16:43
+data coming...|Time:2016-08-16 04:16:43
+single msg is ok...|Time:2016-08-16 04:16:43
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:16:43
+send back to 127.0.0.1|Time:2016-08-16 04:16:43
+start to read...wait for data|Time:2016-08-16 04:16:43
+127.0.0.1 closed,exit|Time:2016-08-16 04:16:43|Time:2016-08-16 04:16:43
+new client is coming...|Time:2016-08-16 04:20:39|Time:2016-08-16 04:20:39
+127.0.0.1 connected...|Time:2016-08-16 04:20:39|Time:2016-08-16 04:20:39
+start to read...wait for data|Time:2016-08-16 04:20:39
+data coming...|Time:2016-08-16 04:20:39
+single msg is ok...|Time:2016-08-16 04:20:39
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:20:39
+send back to 127.0.0.1|Time:2016-08-16 04:20:39
+start to read...wait for data|Time:2016-08-16 04:20:39
+127.0.0.1 closed,exit|Time:2016-08-16 04:20:39|Time:2016-08-16 04:20:39
+new client is coming...|Time:2016-08-16 04:21:17|Time:2016-08-16 04:21:17
+127.0.0.1 connected...|Time:2016-08-16 04:21:17|Time:2016-08-16 04:21:17
+start to read...wait for data|Time:2016-08-16 04:21:17
+data coming...|Time:2016-08-16 04:21:17
+single msg is ok...|Time:2016-08-16 04:21:17
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:21:17
+new client is coming...|Time:2016-08-16 04:22:11|Time:2016-08-16 04:22:11
+127.0.0.1 connected...|Time:2016-08-16 04:22:11|Time:2016-08-16 04:22:11
+start to read...wait for data|Time:2016-08-16 04:22:11
+data coming...|Time:2016-08-16 04:22:11
+single msg is ok...|Time:2016-08-16 04:22:11
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:22:11
+new client is coming...|Time:2016-08-16 04:22:42|Time:2016-08-16 04:22:42
+127.0.0.1 connected...|Time:2016-08-16 04:22:42|Time:2016-08-16 04:22:42
+start to read...wait for data|Time:2016-08-16 04:22:42
+data coming...|Time:2016-08-16 04:22:42
+single msg is ok...|Time:2016-08-16 04:22:42
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:22:42
+new client is coming...|Time:2016-08-16 04:26:38|Time:2016-08-16 04:26:38
+127.0.0.1 connected...|Time:2016-08-16 04:26:38|Time:2016-08-16 04:26:38
+start to read...wait for data|Time:2016-08-16 04:26:38
+data coming...|Time:2016-08-16 04:26:38
+single msg is ok...|Time:2016-08-16 04:26:38
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:26:38
+new client is coming...|Time:2016-08-16 04:33:13|Time:2016-08-16 04:33:13
+127.0.0.1 connected...|Time:2016-08-16 04:33:13|Time:2016-08-16 04:33:13
+start to read...wait for data|Time:2016-08-16 04:33:13
+data coming...|Time:2016-08-16 04:33:13
+single msg is ok...|Time:2016-08-16 04:33:13
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:33:13
+new client is coming...|Time:2016-08-16 04:34:50|Time:2016-08-16 04:34:50
+127.0.0.1 connected...|Time:2016-08-16 04:34:50|Time:2016-08-16 04:34:50
+start to read...wait for data|Time:2016-08-16 04:34:50
+data coming...|Time:2016-08-16 04:34:50
+single msg is ok...|Time:2016-08-16 04:34:50
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:34:50
+new client is coming...|Time:2016-08-16 04:40:04|Time:2016-08-16 04:40:04
+127.0.0.1 connected...|Time:2016-08-16 04:40:04|Time:2016-08-16 04:40:04
+start to read...wait for data|Time:2016-08-16 04:40:04
+data coming...|Time:2016-08-16 04:40:04
+single msg is ok...|Time:2016-08-16 04:40:04
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:40:04
+send back to 127.0.0.1|Time:2016-08-16 04:40:04
+start to read...wait for data|Time:2016-08-16 04:40:04
+127.0.0.1 closed,exit|Time:2016-08-16 04:40:04|Time:2016-08-16 04:40:04
+new client is coming...|Time:2016-08-16 04:42:37|Time:2016-08-16 04:42:37
+127.0.0.1 connected...|Time:2016-08-16 04:42:37|Time:2016-08-16 04:42:37
+start to read...wait for data|Time:2016-08-16 04:42:37
+data coming...|Time:2016-08-16 04:42:37
+single msg is ok...|Time:2016-08-16 04:42:37
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:42:37
+send back to 127.0.0.1|Time:2016-08-16 04:42:37
+start to read...wait for data|Time:2016-08-16 04:42:37
+127.0.0.1 closed,exit|Time:2016-08-16 04:42:37|Time:2016-08-16 04:42:37
+new client is coming...|Time:2016-08-16 04:43:37|Time:2016-08-16 04:43:37
+127.0.0.1 connected...|Time:2016-08-16 04:43:37|Time:2016-08-16 04:43:37
+start to read...wait for data|Time:2016-08-16 04:43:37
+data coming...|Time:2016-08-16 04:43:37
+single msg is ok...|Time:2016-08-16 04:43:37
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:43:37
+send back to 127.0.0.1|Time:2016-08-16 04:43:37
+start to read...wait for data|Time:2016-08-16 04:43:37
+127.0.0.1 closed,exit|Time:2016-08-16 04:43:37|Time:2016-08-16 04:43:37
+new client is coming...|Time:2016-08-16 04:44:33|Time:2016-08-16 04:44:33
+127.0.0.1 connected...|Time:2016-08-16 04:44:33|Time:2016-08-16 04:44:33
+start to read...wait for data|Time:2016-08-16 04:44:33
+data coming...|Time:2016-08-16 04:44:33
+single msg is ok...|Time:2016-08-16 04:44:33
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:44:33
+send back to 127.0.0.1|Time:2016-08-16 04:44:33
+start to read...wait for data|Time:2016-08-16 04:44:33
+127.0.0.1 closed,exit|Time:2016-08-16 04:44:33|Time:2016-08-16 04:44:33
+new client is coming...|Time:2016-08-16 04:45:27|Time:2016-08-16 04:45:27
+127.0.0.1 connected...|Time:2016-08-16 04:45:27|Time:2016-08-16 04:45:27
+start to read...wait for data|Time:2016-08-16 04:45:27
+data coming...|Time:2016-08-16 04:45:27
+single msg is ok...|Time:2016-08-16 04:45:27
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:45:27
+send back to 127.0.0.1|Time:2016-08-16 04:45:27
+start to read...wait for data|Time:2016-08-16 04:45:27
+127.0.0.1 closed,exit|Time:2016-08-16 04:45:27|Time:2016-08-16 04:45:27
+new client is coming...|Time:2016-08-16 04:45:43|Time:2016-08-16 04:45:43
+127.0.0.1 connected...|Time:2016-08-16 04:45:43|Time:2016-08-16 04:45:43
+start to read...wait for data|Time:2016-08-16 04:45:43
+data coming...|Time:2016-08-16 04:45:43
+single msg is ok...|Time:2016-08-16 04:45:43
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:45:43
+send back to 127.0.0.1|Time:2016-08-16 04:45:43
+start to read...wait for data|Time:2016-08-16 04:45:43
+127.0.0.1 closed,exit|Time:2016-08-16 04:45:43|Time:2016-08-16 04:45:43
+new client is coming...|Time:2016-08-16 04:46:31|Time:2016-08-16 04:46:31
+127.0.0.1 connected...|Time:2016-08-16 04:46:31|Time:2016-08-16 04:46:31
+start to read...wait for data|Time:2016-08-16 04:46:31
+data coming...|Time:2016-08-16 04:46:31
+single msg is ok...|Time:2016-08-16 04:46:31
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:46:31
+send back to 127.0.0.1|Time:2016-08-16 04:46:31
+start to read...wait for data|Time:2016-08-16 04:46:31
+127.0.0.1 closed,exit|Time:2016-08-16 04:46:31|Time:2016-08-16 04:46:31
+new client is coming...|Time:2016-08-16 04:50:18|Time:2016-08-16 04:50:18
+127.0.0.1 connected...|Time:2016-08-16 04:50:18|Time:2016-08-16 04:50:18
+start to read...wait for data|Time:2016-08-16 04:50:18
+data coming...|Time:2016-08-16 04:50:18
+single msg is ok...|Time:2016-08-16 04:50:18
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:50:18
+send back to 127.0.0.1|Time:2016-08-16 04:50:18
+start to read...wait for data|Time:2016-08-16 04:50:18
+127.0.0.1 closed,exit|Time:2016-08-16 04:50:18|Time:2016-08-16 04:50:18
+new client is coming...|Time:2016-08-16 04:55:05|Time:2016-08-16 04:55:05
+127.0.0.1 connected...|Time:2016-08-16 04:55:05|Time:2016-08-16 04:55:05
+start to read...wait for data|Time:2016-08-16 04:55:05
+data coming...|Time:2016-08-16 04:55:05
+single msg is ok...|Time:2016-08-16 04:55:05
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 04:55:05
+send back to 127.0.0.1|Time:2016-08-16 04:55:05
+start to read...wait for data|Time:2016-08-16 04:55:05
+127.0.0.1 closed,exit|Time:2016-08-16 04:55:05|Time:2016-08-16 04:55:05
+new client is coming...|Time:2016-08-16 05:00:23|Time:2016-08-16 05:00:23
+127.0.0.1 connected...|Time:2016-08-16 05:00:23|Time:2016-08-16 05:00:23
+start to read...wait for data|Time:2016-08-16 05:00:23
+data coming...|Time:2016-08-16 05:00:23
+single msg is ok...|Time:2016-08-16 05:00:23
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:00:23
+send back to 127.0.0.1|Time:2016-08-16 05:00:23
+start to read...wait for data|Time:2016-08-16 05:00:23
+127.0.0.1 closed,exit|Time:2016-08-16 05:00:23|Time:2016-08-16 05:00:23
+new client is coming...|Time:2016-08-16 05:04:50|Time:2016-08-16 05:04:50
+127.0.0.1 connected...|Time:2016-08-16 05:04:50|Time:2016-08-16 05:04:50
+start to read...wait for data|Time:2016-08-16 05:04:50
+data coming...|Time:2016-08-16 05:04:50
+single msg is ok...|Time:2016-08-16 05:04:50
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:04:50
+send back to 127.0.0.1|Time:2016-08-16 05:04:50
+start to read...wait for data|Time:2016-08-16 05:04:50
+127.0.0.1 closed,exit|Time:2016-08-16 05:04:50|Time:2016-08-16 05:04:50
+new client is coming...|Time:2016-08-16 05:08:05|Time:2016-08-16 05:08:06
+127.0.0.1 connected...|Time:2016-08-16 05:08:06|Time:2016-08-16 05:08:06
+start to read...wait for data|Time:2016-08-16 05:08:06
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 05:08:13|Time:2016-08-16 05:08:13
+127.0.0.1 closed,exit|Time:2016-08-16 05:08:13|Time:2016-08-16 05:08:13
+new client is coming...|Time:2016-08-16 05:08:15|Time:2016-08-16 05:08:15
+127.0.0.1 connected...|Time:2016-08-16 05:08:15|Time:2016-08-16 05:08:15
+start to read...wait for data|Time:2016-08-16 05:08:15
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 05:08:16|Time:2016-08-16 05:08:16
+127.0.0.1 closed,exit|Time:2016-08-16 05:08:16|Time:2016-08-16 05:08:16
+new client is coming...|Time:2016-08-16 05:09:23|Time:2016-08-16 05:09:23
+127.0.0.1 connected...|Time:2016-08-16 05:09:23|Time:2016-08-16 05:09:23
+start to read...wait for data|Time:2016-08-16 05:09:23
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 05:09:25|Time:2016-08-16 05:09:25
+127.0.0.1 closed,exit|Time:2016-08-16 05:09:25|Time:2016-08-16 05:09:25
+new client is coming...|Time:2016-08-16 05:09:37|Time:2016-08-16 05:09:37
+127.0.0.1 connected...|Time:2016-08-16 05:09:37|Time:2016-08-16 05:09:37
+start to read...wait for data|Time:2016-08-16 05:09:37
+data coming...|Time:2016-08-16 05:09:37
+single msg is ok...|Time:2016-08-16 05:09:37
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:09:37
+send back to 127.0.0.1|Time:2016-08-16 05:09:37
+start to read...wait for data|Time:2016-08-16 05:09:37
+127.0.0.1 closed,exit|Time:2016-08-16 05:09:37|Time:2016-08-16 05:09:37
+new client is coming...|Time:2016-08-16 05:14:43|Time:2016-08-16 05:14:43
+127.0.0.1 connected...|Time:2016-08-16 05:14:43|Time:2016-08-16 05:14:43
+start to read...wait for data|Time:2016-08-16 05:14:43
+data coming...|Time:2016-08-16 05:14:43
+single msg is ok...|Time:2016-08-16 05:14:43
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:14:43
+new client is coming...|Time:2016-08-16 05:14:56|Time:2016-08-16 05:14:56
+127.0.0.1 connected...|Time:2016-08-16 05:14:56|Time:2016-08-16 05:14:56
+start to read...wait for data|Time:2016-08-16 05:14:56
+data coming...|Time:2016-08-16 05:14:56
+single msg is ok...|Time:2016-08-16 05:14:56
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:14:56
+new client is coming...|Time:2016-08-16 05:14:59|Time:2016-08-16 05:14:59
+127.0.0.1 connected...|Time:2016-08-16 05:14:59|Time:2016-08-16 05:14:59
+start to read...wait for data|Time:2016-08-16 05:14:59
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 05:15:01|Time:2016-08-16 05:15:01
+127.0.0.1 closed,exit|Time:2016-08-16 05:15:01|Time:2016-08-16 05:15:01
+new client is coming...|Time:2016-08-16 05:15:02|Time:2016-08-16 05:15:03
+127.0.0.1 connected...|Time:2016-08-16 05:15:03|Time:2016-08-16 05:15:03
+start to read...wait for data|Time:2016-08-16 05:15:03
+data coming...|Time:2016-08-16 05:15:03
+single msg is ok...|Time:2016-08-16 05:15:03
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:15:03
+new client is coming...|Time:2016-08-16 05:15:06|Time:2016-08-16 05:15:06
+127.0.0.1 connected...|Time:2016-08-16 05:15:06|Time:2016-08-16 05:15:06
+start to read...wait for data|Time:2016-08-16 05:15:06
+data coming...|Time:2016-08-16 05:15:06
+single msg is ok...|Time:2016-08-16 05:15:06
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:15:06
+new client is coming...|Time:2016-08-16 05:24:48|Time:2016-08-16 05:24:48
+127.0.0.1 connected...|Time:2016-08-16 05:24:48|Time:2016-08-16 05:24:48
+start to read...wait for data|Time:2016-08-16 05:24:48
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 05:24:51|Time:2016-08-16 05:24:51
+127.0.0.1 closed,exit|Time:2016-08-16 05:24:51|Time:2016-08-16 05:24:51
+new client is coming...|Time:2016-08-16 05:25:18|Time:2016-08-16 05:25:18
+127.0.0.1 connected...|Time:2016-08-16 05:25:18|Time:2016-08-16 05:25:18
+start to read...wait for data|Time:2016-08-16 05:25:18
+new client is coming...|Time:2016-08-16 05:25:49|Time:2016-08-16 05:25:49
+127.0.0.1 connected...|Time:2016-08-16 05:25:49|Time:2016-08-16 05:25:49
+start to read...wait for data|Time:2016-08-16 05:25:49
+data coming...|Time:2016-08-16 05:25:49
+single msg is ok...|Time:2016-08-16 05:25:49
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:25:49
+send back to 127.0.0.1|Time:2016-08-16 05:25:49
+start to read...wait for data|Time:2016-08-16 05:25:49
+127.0.0.1 closed,exit|Time:2016-08-16 05:25:49|Time:2016-08-16 05:25:49
+new client is coming...|Time:2016-08-16 05:59:15|Time:2016-08-16 05:59:15
+127.0.0.1 connected...|Time:2016-08-16 05:59:15|Time:2016-08-16 05:59:15
+start to read...wait for data|Time:2016-08-16 05:59:15
+data coming...|Time:2016-08-16 05:59:15
+single msg is ok...|Time:2016-08-16 05:59:15
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 05:59:15
+send back to 127.0.0.1|Time:2016-08-16 05:59:15
+start to read...wait for data|Time:2016-08-16 05:59:15
+127.0.0.1 closed,exit|Time:2016-08-16 05:59:15|Time:2016-08-16 05:59:15
+new client is coming...|Time:2016-08-16 06:02:16|Time:2016-08-16 06:02:16
+127.0.0.1 connected...|Time:2016-08-16 06:02:16|Time:2016-08-16 06:02:16
+start to read...wait for data|Time:2016-08-16 06:02:16
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 06:02:18|Time:2016-08-16 06:02:18
+127.0.0.1 closed,exit|Time:2016-08-16 06:02:18|Time:2016-08-16 06:02:18
+new client is coming...|Time:2016-08-16 06:02:20|Time:2016-08-16 06:02:20
+127.0.0.1 connected...|Time:2016-08-16 06:02:20|Time:2016-08-16 06:02:20
+start to read...wait for data|Time:2016-08-16 06:02:20
+data coming...|Time:2016-08-16 06:02:20
+single msg is ok...|Time:2016-08-16 06:02:20
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:02:20
+send back to 127.0.0.1|Time:2016-08-16 06:02:20
+start to read...wait for data|Time:2016-08-16 06:02:20
+127.0.0.1 closed,exit|Time:2016-08-16 06:02:20|Time:2016-08-16 06:02:20
+new client is coming...|Time:2016-08-16 06:14:01|Time:2016-08-16 06:14:01
+127.0.0.1 connected...|Time:2016-08-16 06:14:01|Time:2016-08-16 06:14:01
+start to read...wait for data|Time:2016-08-16 06:14:01
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 06:14:03|Time:2016-08-16 06:14:03
+127.0.0.1 closed,exit|Time:2016-08-16 06:14:03|Time:2016-08-16 06:14:03
+new client is coming...|Time:2016-08-16 06:14:05|Time:2016-08-16 06:14:05
+127.0.0.1 connected...|Time:2016-08-16 06:14:05|Time:2016-08-16 06:14:05
+start to read...wait for data|Time:2016-08-16 06:14:05
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 06:14:06|Time:2016-08-16 06:14:06
+127.0.0.1 closed,exit|Time:2016-08-16 06:14:06|Time:2016-08-16 06:14:06
+new client is coming...|Time:2016-08-16 06:14:08|Time:2016-08-16 06:14:08
+127.0.0.1 connected...|Time:2016-08-16 06:14:08|Time:2016-08-16 06:14:08
+start to read...wait for data|Time:2016-08-16 06:14:08
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 06:14:10|Time:2016-08-16 06:14:10
+127.0.0.1 closed,exit|Time:2016-08-16 06:14:10|Time:2016-08-16 06:14:10
+new client is coming...|Time:2016-08-16 06:14:14|Time:2016-08-16 06:14:14
+127.0.0.1 connected...|Time:2016-08-16 06:14:14|Time:2016-08-16 06:14:14
+start to read...wait for data|Time:2016-08-16 06:14:14
+data coming...|Time:2016-08-16 06:14:14
+single msg is ok...|Time:2016-08-16 06:14:14
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:14:14
+new client is coming...|Time:2016-08-16 06:14:20|Time:2016-08-16 06:14:20
+127.0.0.1 connected...|Time:2016-08-16 06:14:20|Time:2016-08-16 06:14:20
+start to read...wait for data|Time:2016-08-16 06:14:20
+data coming...|Time:2016-08-16 06:14:20
+single msg is ok...|Time:2016-08-16 06:14:20
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:14:20
+new client is coming...|Time:2016-08-16 06:14:25|Time:2016-08-16 06:14:25
+127.0.0.1 connected...|Time:2016-08-16 06:14:25|Time:2016-08-16 06:14:25
+start to read...wait for data|Time:2016-08-16 06:14:25
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 06:14:27|Time:2016-08-16 06:14:27
+127.0.0.1 closed,exit|Time:2016-08-16 06:14:27|Time:2016-08-16 06:14:27
+new client is coming...|Time:2016-08-16 06:15:18|Time:2016-08-16 06:15:18
+127.0.0.1 connected...|Time:2016-08-16 06:15:18|Time:2016-08-16 06:15:18
+start to read...wait for data|Time:2016-08-16 06:15:18
+data coming...|Time:2016-08-16 06:15:18
+single msg is ok...|Time:2016-08-16 06:15:18
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:15:18
+new client is coming...|Time:2016-08-16 06:20:30|Time:2016-08-16 06:20:30
+127.0.0.1 connected...|Time:2016-08-16 06:20:30|Time:2016-08-16 06:20:30
+start to read...wait for data|Time:2016-08-16 06:20:30
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 06:20:32|Time:2016-08-16 06:20:32
+127.0.0.1 closed,exit|Time:2016-08-16 06:20:32|Time:2016-08-16 06:20:32
+new client is coming...|Time:2016-08-16 06:20:38|Time:2016-08-16 06:20:38
+127.0.0.1 connected...|Time:2016-08-16 06:20:38|Time:2016-08-16 06:20:38
+start to read...wait for data|Time:2016-08-16 06:20:38
+data coming...|Time:2016-08-16 06:20:38
+single msg is ok...|Time:2016-08-16 06:20:38
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:20:38
+send back to 127.0.0.1|Time:2016-08-16 06:20:38
+start to read...wait for data|Time:2016-08-16 06:20:38
+127.0.0.1 closed,exit|Time:2016-08-16 06:20:38|Time:2016-08-16 06:20:38
+new client is coming...|Time:2016-08-16 06:23:37|Time:2016-08-16 06:23:37
+127.0.0.1 connected...|Time:2016-08-16 06:23:37|Time:2016-08-16 06:23:37
+start to read...wait for data|Time:2016-08-16 06:23:37
+data coming...|Time:2016-08-16 06:23:37
+single msg is ok...|Time:2016-08-16 06:23:37
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:23:37
+send back to 127.0.0.1|Time:2016-08-16 06:23:37
+start to read...wait for data|Time:2016-08-16 06:23:37
+127.0.0.1 closed,exit|Time:2016-08-16 06:23:37|Time:2016-08-16 06:23:37
+new client is coming...|Time:2016-08-16 06:26:50|Time:2016-08-16 06:26:50
+127.0.0.1 connected...|Time:2016-08-16 06:26:51|Time:2016-08-16 06:26:51
+start to read...wait for data|Time:2016-08-16 06:26:51
+data coming...|Time:2016-08-16 06:26:53
+start to read...wait for data|Time:2016-08-16 06:26:53
+data coming...|Time:2016-08-16 06:26:53
+single msg is ok...|Time:2016-08-16 06:26:53
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 06:26:53
+send back to 127.0.0.1|Time:2016-08-16 06:26:53
+start to read...wait for data|Time:2016-08-16 06:26:53
+127.0.0.1 closed,exit|Time:2016-08-16 06:26:53|Time:2016-08-16 06:26:53
+new client is coming...|Time:2016-08-16 06:27:39|Time:2016-08-16 06:27:39
+127.0.0.1 connected...|Time:2016-08-16 06:27:39|Time:2016-08-16 06:27:39
+start to read...wait for data|Time:2016-08-16 06:27:39
+new client is coming...|Time:2016-08-16 11:04:23|Time:2016-08-16 11:04:23
+127.0.0.1 connected...|Time:2016-08-16 11:04:23|Time:2016-08-16 11:04:23
+start to read...wait for data|Time:2016-08-16 11:04:23
+data coming...|Time:2016-08-16 11:04:25
+start to read...wait for data|Time:2016-08-16 11:04:25
+data coming...|Time:2016-08-16 11:04:25
+single msg is ok...|Time:2016-08-16 11:04:25
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 11:04:25
+send back to 127.0.0.1|Time:2016-08-16 11:04:25
+start to read...wait for data|Time:2016-08-16 11:04:25
+127.0.0.1 closed,exit|Time:2016-08-16 11:04:25|Time:2016-08-16 11:04:25
+new client is coming...|Time:2016-08-16 11:08:39|Time:2016-08-16 11:08:39
+127.0.0.1 connected...|Time:2016-08-16 11:08:39|Time:2016-08-16 11:08:39
+start to read...wait for data|Time:2016-08-16 11:08:39
+127.0.0.1 closed,exit|Time:2016-08-16 11:10:47|Time:2016-08-16 11:10:47
+new client is coming...|Time:2016-08-16 11:13:45|Time:2016-08-16 11:13:45
+127.0.0.1 connected...|Time:2016-08-16 11:13:45|Time:2016-08-16 11:13:45
+start to read...wait for data|Time:2016-08-16 11:13:45
+127.0.0.1 closed,exit|Time:2016-08-16 11:14:30|Time:2016-08-16 11:14:30
+new client is coming...|Time:2016-08-16 11:14:42|Time:2016-08-16 11:14:42
+127.0.0.1 connected...|Time:2016-08-16 11:14:42|Time:2016-08-16 11:14:42
+start to read...wait for data|Time:2016-08-16 11:14:42
+127.0.0.1 closed,exit|Time:2016-08-16 11:15:02|Time:2016-08-16 11:15:02
+new client is coming...|Time:2016-08-16 11:22:45|Time:2016-08-16 11:22:45
+127.0.0.1 connected...|Time:2016-08-16 11:22:45|Time:2016-08-16 11:22:45
+start to read...wait for data|Time:2016-08-16 11:22:45
+data coming...|Time:2016-08-16 11:22:45
+single msg is ok...|Time:2016-08-16 11:22:45
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 11:22:45
+send back to 127.0.0.1|Time:2016-08-16 11:22:45
+start to read...wait for data|Time:2016-08-16 11:22:45
+127.0.0.1 closed,exit|Time:2016-08-16 11:22:45|Time:2016-08-16 11:22:45
+new client is coming...|Time:2016-08-16 11:31:56|Time:2016-08-16 11:31:56
+127.0.0.1 connected...|Time:2016-08-16 11:31:56|Time:2016-08-16 11:31:56
+start to read...wait for data|Time:2016-08-16 11:31:56
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 11:32:08|Time:2016-08-16 11:32:08
+127.0.0.1 closed,exit|Time:2016-08-16 11:32:08|Time:2016-08-16 11:32:08
+new client is coming...|Time:2016-08-16 11:32:10|Time:2016-08-16 11:32:10
+127.0.0.1 connected...|Time:2016-08-16 11:32:10|Time:2016-08-16 11:32:10
+start to read...wait for data|Time:2016-08-16 11:32:10
+data coming...|Time:2016-08-16 11:32:10
+single msg is ok...|Time:2016-08-16 11:32:10
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 11:32:10
+send back to 127.0.0.1|Time:2016-08-16 11:32:10
+start to read...wait for data|Time:2016-08-16 11:32:10
+127.0.0.1 closed,exit|Time:2016-08-16 11:32:10|Time:2016-08-16 11:32:10
+new client is coming...|Time:2016-08-16 11:33:38|Time:2016-08-16 11:33:38
+127.0.0.1 connected...|Time:2016-08-16 11:33:38|Time:2016-08-16 11:33:38
+start to read...wait for data|Time:2016-08-16 11:33:38
+data coming...|Time:2016-08-16 11:33:38
+single msg is ok...|Time:2016-08-16 11:33:38
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 11:33:38
+send back to 127.0.0.1|Time:2016-08-16 11:33:38
+start to read...wait for data|Time:2016-08-16 11:33:38
+127.0.0.1 closed,exit|Time:2016-08-16 11:33:38|Time:2016-08-16 11:33:38
+new client is coming...|Time:2016-08-16 11:52:59|Time:2016-08-16 11:52:59
+127.0.0.1 connected...|Time:2016-08-16 11:52:59|Time:2016-08-16 11:52:59
+start to read...wait for data|Time:2016-08-16 11:52:59
+msgProcessor IOException..|java.net.SocketException: Connection reset|2016-08-16 11:54:11|Time:2016-08-16 11:54:11
+127.0.0.1 closed,exit|Time:2016-08-16 11:54:11|Time:2016-08-16 11:54:11
+new client is coming...|Time:2016-08-16 11:58:52|Time:2016-08-16 11:58:52
+127.0.0.1 connected...|Time:2016-08-16 11:58:52|Time:2016-08-16 11:58:52
+start to read...wait for data|Time:2016-08-16 11:58:52
+data coming...|Time:2016-08-16 11:58:52
+single msg is ok...|Time:2016-08-16 11:58:52
+command is ok from 127.0.0.1, responding... |Time:2016-08-16 11:58:52
+send back to 127.0.0.1|Time:2016-08-16 11:58:52
+start to read...wait for data|Time:2016-08-16 11:58:52
+127.0.0.1 closed,exit|Time:2016-08-16 11:58:52|Time:2016-08-16 11:58:52

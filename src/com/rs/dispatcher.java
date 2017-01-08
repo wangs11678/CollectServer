@@ -22,81 +22,36 @@ public class dispatcher {
 	 * @throws IOException 
 	 * @throws SQLException 
 	 */
-	public  static String processMsg(JSONObject jsonData,Socket clientSocket)  
+	public  static String processMsg(byte[] data ,int len,Socket clientSocket) throws SQLException, JSONException, IOException  
 	{
-		try {
-			String code=jsonData.getString("code");
-			//heart tick
-			if (code.equals("1100")) {
-					//心跳包
-					 SystemService.tick(jsonData);
-					//查询任务指令
-					 SystemService.SendBackOrders(jsonData, clientSocket);
-					 return "";
-			}
-			else if (code.equals("1101")) {
-					return SystemService.start(jsonData);
-			}
-			else if (code.equals("1102")) {
-					return SystemService.stop(jsonData);
-			}
-			else if (code.equals("1103")) {
- 
-					return SystemService.restart(jsonData);
-			}
-			else if (code.equals("1104")) {
-					return SystemService.upgrade(jsonData);
-			}
-			else if (code.equals("1105")) {
-					return SystemService.upgraded(jsonData);
-			}
-			//检查新版本
-			else if (code.equals("1106")) {
-					return SystemService.askVersion(jsonData,clientSocket);
-			}
-			//紧急呼叫
-			else if(code.equals("1110")){
-					return EmergencyService.emergency(jsonData);
-			}
-			//file upload
-			else if (code.equals("1211")) {
-					return VoiceService.voiceUpload(jsonData,clientSocket);
-			}
-			//处理异常
-		} catch (SQLException e) {
-			e.printStackTrace();
-			myTools.saveLog(e.toString()+"|Time:"+myTools.getCurrentTime()+"\r\n");
-			try {
-				clientSocket.close();
-			} catch (IOException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			}
-		}
-		catch (IOException e) {
-			// TODO: handle exception
-			e.printStackTrace();
-			myTools.saveLog(e.toString()+"|Time:"+myTools.getCurrentTime()+"\r\n");
-			try {
-				clientSocket.close();
-			} catch (IOException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			}
-		}
-		catch (JSONException e) {
-			// TODO: handle exception
-			e.printStackTrace();
-			myTools.saveLog(e.toString()+"|Time:"+myTools.getCurrentTime()+"\r\n");
-			try {
-				clientSocket.close();
-			} catch (IOException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			}
-		}
-		return "Err";
+		//当前只有一种消息
+		byte commandByte[]=new byte[4];
 		
+		String returnString="";//初始化返回字符串
+		System.arraycopy(data, 0, commandByte, 0, 4) ;
+		int command=myTools.byte2int(commandByte);//得到命令
 		
+		System.out.print("cmdNo: ");
+		System.out.println(command);
+		
+		int bodyLen= len-4;
+		
+		//System.out.println(command);
+		
+		byte dataBody[]=new byte[bodyLen];
+		System.arraycopy(data, 4, dataBody, 0, bodyLen) ;//得到命令编号之后的数据块
+		switch (command) {
+		case 101:
+			returnString= SystemService.addRecognition(dataBody, bodyLen, clientSocket);
+			break;
+		case 102:
+			returnString= SystemService.saveImg(dataBody, bodyLen, clientSocket);
+			break;
+		default:
+			break;
+		}
+			
+			
+		return returnString;
 	}
 }
